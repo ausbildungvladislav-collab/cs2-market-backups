@@ -1,0 +1,96 @@
+{
+  "generatedAt": "2026-11-21T16:03:13.973Z",
+  "backend": {
+    "status": "online",
+    "uptimeSeconds": 95108,
+    "database": "ok"
+  },
+  "players": {
+    "total": 4,
+    "onlineNow": 0,
+    "activeLast24h": 4,
+    "newLast24h": 2,
+    "blocked": 0
+  },
+  "economy": {
+    "virtualCoinsTotal": 506872.3700000001,
+    "inventoryItems": 8,
+    "transactions": 422,
+    "caseOpens": 129
+  },
+  "games": {
+    "played": 170,
+    "outcomes": [
+      {
+        "outcome": "loss",
+        "count": 123
+      },
+      {
+        "outcome": "win",
+        "count": 47
+      }
+    ],
+    "byType": [
+      {
+        "game": "coinflip",
+        "count": 4
+      },
+      {
+        "game": "crash",
+        "count": 12
+      },
+      {
+        "game": "mines",
+        "count": 66
+      },
+      {
+        "game": "roulette",
+        "count": 88
+      }
+    ]
+  },
+  "multiplayer": {
+    "activeRooms": 0,
+    "friends": 0,
+    "messages": 0,
+    "rounds": 0
+  },
+  "donations": {
+    "paidCount": 0,
+    "stars": 0
+  },
+  "popularInventorySkins": [
+    {
+      "skinId": "catalog-skin-1f95db2031e4-sfui-invtooltip-wear-amount-3",
+      "owners": 1
+    },
+    {
+      "skinId": "catalog-skin-5bd16f2599cf-sfui-invtooltip-wear-amount-4",
+      "owners": 1
+    },
+    {
+      "skinId": "catalog-skin-9197715f9f3f-sfui-invtooltip-wear-amount-1",
+      "owners": 1
+    },
+    {
+      "skinId": "catalog-skin-9197715f9f3f-sfui-invtooltip-wear-amount-3",
+      "owners": 1
+    },
+    {
+      "skinId": "catalog-skin-9197715f9f3f-sfui-invtooltip-wear-amount-4",
+      "owners": 1
+    },
+    {
+      "skinId": "catalog-skin-a5b8f726cf2c-sfui-invtooltip-wear-amount-3",
+      "owners": 1
+    },
+    {
+      "skinId": "catalog-skin-b986a2456e28-sfui-invtooltip-wear-amount-2",
+      "owners": 1
+    },
+    {
+      "skinId": "catalog-skin-b986a2456e28-sfui-invtooltip-wear-amount-4",
+      "owners": 1
+    }
+  ]
+}

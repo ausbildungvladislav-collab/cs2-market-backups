@@ -1,0 +1,221 @@
+CS2 MARKET DATA SNAPSHOT
+
+[PLAYERS]
+telegram_id	username	balance	status	registered_at	last_active	inventory
+6102516662	s1mplex1d	506253.32	active	2026-11-18 05:56:44	2026-11-21 13:36:48	—
+8876533050	Тихон	419.05	active	2026-11-19 18:52:28	2026-11-20 18:34:25	catalog-skin-1f95db2031e4-sfui-invtooltip-wear-amount-3, catalog-skin-5bd16f2599cf-sfui-invtooltip-wear-amount-4, catalog-skin-9197715f9f3f-sfui-invtooltip-wear-amount-1, catalog-skin-9197715f9f3f-sfui-invtooltip-wear-amount-3, catalog-skin-9197715f9f3f-sfui-invtooltip-wear-amount-4, catalog-skin-a5b8f726cf2c-sfui-invtooltip-wear-amount-3, catalog-skin-b986a2456e28-sfui-invtooltip-wear-amount-2, catalog-skin-b986a2456e28-sfui-invtooltip-wear-amount-4
+1906081574	Illyajr	100.00	active	2026-11-20 18:46:14	2026-11-20 18:46:24	—
+8036024640	Protywwsech	100.00	active	2026-11-21 16:03:11	2026-11-21 16:03:11	—
+
+[LAST 100 TRANSACTIONS]
+id	telegram_id	amount	label	admin_id	reason	created_at
+422	6102516662	29.67	Продажа: catalog-skin-7646a28247e0-sfui-invtooltip-wear-amount-4	—	—	2026-11-21 13:36:46
+421	6102516662	395.15	Продажа: catalog-skin-71c8a21234d4-sfui-invtooltip-wear-amount-1	—	—	2026-11-21 13:36:46
+420	6102516662	26.37	Продажа: catalog-skin-7646a28247e0-sfui-invtooltip-wear-amount-3	—	—	2026-11-21 13:36:46
+419	6102516662	24.17	Продажа: catalog-skin-7646a28247e0-sfui-invtooltip-wear-amount-2	—	—	2026-11-21 13:36:45
+418	6102516662	43.19	Продажа: catalog-skin-7646a28247e0-sfui-invtooltip-wear-amount-1	—	—	2026-11-21 13:36:45
+417	6102516662	143.96	Продажа: catalog-skin-7646a28247e0-sfui-invtooltip-wear-amount-0	—	—	2026-11-21 13:36:45
+416	6102516662	82.79	Продажа: catalog-skin-e757fd7191f9-sfui-invtooltip-wear-amount-4	—	—	2026-11-21 13:36:44
+415	6102516662	542.96	Продажа: catalog-skin-e757fd7191f9-sfui-invtooltip-wear-amount-2	—	—	2026-11-21 13:36:44
+414	6102516662	34.52	Продажа: catalog-skin-150eda31902a-sfui-invtooltip-wear-amount-1	—	—	2026-11-21 13:36:44
+413	6102516662	138.47	Продажа: catalog-skin-c5d9b9889f59-sfui-invtooltip-wear-amount-1	—	—	2026-11-21 13:36:43
+412	6102516662	1.26	Продажа: catalog-skin-36008b7f9240-sfui-invtooltip-wear-amount-2	—	—	2026-11-21 13:36:43
+411	6102516662	0.24	Продажа: catalog-skin-3a61ea6e759f-sfui-invtooltip-wear-amount-2	—	—	2026-11-21 13:36:43
+410	6102516662	0.20	Продажа: catalog-skin-81d44fd69bbd-sfui-invtooltip-wear-amount-0	—	—	2026-11-21 13:36:42
+409	6102516662	2.88	Продажа: catalog-skin-f10cd3871578-sfui-invtooltip-wear-amount-4	—	—	2026-11-21 13:36:42
+408	6102516662	4.50	Продажа: catalog-skin-e5f08d307bdd-sfui-invtooltip-wear-amount-0	—	—	2026-11-21 13:36:42
+407	6102516662	29.18	Продажа: catalog-skin-74e670c4b279-sfui-invtooltip-wear-amount-4	—	—	2026-11-21 13:36:42
+406	6102516662	10.88	Продажа: catalog-skin-5a5e6018f632-sfui-invtooltip-wear-amount-0	—	—	2026-11-21 13:36:41
+405	6102516662	2.00	Продажа: catalog-skin-e961fd7b877c-sfui-invtooltip-wear-amount-1	—	—	2026-11-21 13:36:41
+404	6102516662	-32.97	Покупка: catalog-skin-7646a28247e0-sfui-invtooltip-wear-amount-4	—	—	2026-11-21 13:36:38
+403	6102516662	-439.05	Покупка: catalog-skin-71c8a21234d4-sfui-invtooltip-wear-amount-1	—	—	2026-11-21 13:36:38
+402	6102516662	-29.30	Покупка: catalog-skin-7646a28247e0-sfui-invtooltip-wear-amount-3	—	—	2026-11-21 13:36:36
+401	6102516662	-26.85	Покупка: catalog-skin-7646a28247e0-sfui-invtooltip-wear-amount-2	—	—	2026-11-21 13:36:35
+400	6102516662	-47.99	Покупка: catalog-skin-7646a28247e0-sfui-invtooltip-wear-amount-1	—	—	2026-11-21 13:36:34
+399	6102516662	-159.96	Покупка: catalog-skin-7646a28247e0-sfui-invtooltip-wear-amount-0	—	—	2026-11-21 13:36:34
+398	6102516662	-91.99	Покупка: catalog-skin-e757fd7191f9-sfui-invtooltip-wear-amount-4	—	—	2026-11-21 13:36:32
+397	6102516662	-603.29	Покупка: catalog-skin-e757fd7191f9-sfui-invtooltip-wear-amount-2	—	—	2026-11-21 13:36:32
+396	8876533050	-18.86	Покупка: catalog-skin-b986a2456e28-sfui-invtooltip-wear-amount-4	—	—	2026-11-20 18:34:25
+395	8876533050	-19.70	Покупка: catalog-skin-b986a2456e28-sfui-invtooltip-wear-amount-2	—	—	2026-11-20 18:34:25
+394	8876533050	-17.58	Покупка: catalog-skin-9197715f9f3f-sfui-invtooltip-wear-amount-1	—	—	2026-11-20 18:34:25
+393	8876533050	-19.83	Покупка: catalog-skin-5bd16f2599cf-sfui-invtooltip-wear-amount-4	—	—	2026-11-20 18:34:25
+392	8876533050	-20.00	Покупка: catalog-skin-1f95db2031e4-sfui-invtooltip-wear-amount-3	—	—	2026-11-20 18:34:25
+391	8876533050	-0.78	Покупка: catalog-skin-a5b8f726cf2c-sfui-invtooltip-wear-amount-3	—	—	2026-11-20 18:34:25
+390	8876533050	-8.95	Покупка: catalog-skin-9197715f9f3f-sfui-invtooltip-wear-amount-3	—	—	2026-11-20 18:34:25
+389	8876533050	-8.62	Покупка: catalog-skin-9197715f9f3f-sfui-invtooltip-wear-amount-4	—	—	2026-11-20 18:33:46
+388	6102516662	-14.00	Открытие кейса: classified	—	—	2026-11-20 18:32:18
+387	8876533050	500.00	ADMIN начисление: Гей	6102516662	Гей	2026-11-20 18:31:59
+386	6102516662	-30.00	Открытие кейса: elite	—	—	2026-11-20 16:17:16
+385	6102516662	-4.50	Открытие кейса: starter	—	—	2026-11-20 16:11:35
+384	6102516662	0.00	Апгрейд: catalog-skin-3a61ea6e759f-sfui-invtooltip-wear-amount-2	—	—	2026-11-20 13:42:29
+383	6102516662	0.00	Апгрейд: catalog-skin-81d44fd69bbd-sfui-invtooltip-wear-amount-0	—	—	2026-11-20 13:42:07
+382	6102516662	-8.00	Открытие кейса: ak47	—	—	2026-11-20 12:15:55
+381	6102516662	-4.50	Открытие кейса: starter	—	—	2026-11-20 12:15:38
+380	6102516662	0.00	Апгрейд: catalog-skin-c97106696572-sfui-invtooltip-wear-amount-1	—	—	2026-11-20 12:15:09
+379	6102516662	0.00	Апгрейд: catalog-skin-9ecc088bd04a-sfui-invtooltip-wear-amount-2	—	—	2026-11-20 12:14:45
+378	6102516662	-8.00	Открытие кейса: ak47	—	—	2026-11-20 12:14:14
+377	6102516662	-8.00	Открытие кейса: ak47	—	—	2026-11-20 11:50:18
+376	6102516662	-30.00	Открытие кейса: elite	—	—	2026-11-20 07:13:38
+375	6102516662	-5.00	Открытие кейса: milspec	—	—	2026-11-20 07:13:31
+374	6102516662	-8.00	Открытие кейса: restricted	—	—	2026-11-20 07:13:23
+373	6102516662	46.26	Продажа: catalog-skin-97b0720f09ea-sfui-invtooltip-wear-amount-0	—	—	2026-11-20 07:13:02
+372	6102516662	0.00	Апгрейд: catalog-skin-97b0720f09ea-sfui-invtooltip-wear-amount-0	—	—	2026-11-20 07:12:56
+371	6102516662	0.00	Апгрейд: catalog-skin-13836f90542b-sfui-invtooltip-wear-amount-3	—	—	2026-11-20 07:12:44
+370	6102516662	0.00	Неудачный апгрейд: catalog-skin-bfd054b9c87b-sfui-invtooltip-wear-amount-2	—	—	2026-11-20 07:12:32
+369	6102516662	-69.37	Покупка: catalog-skin-bfd054b9c87b-sfui-invtooltip-wear-amount-2	—	—	2026-11-20 07:12:21
+368	6102516662	0.00	Неудачный апгрейд: catalog-skin-b14c9f234bc5-sfui-invtooltip-wear-amount-1	—	—	2026-11-20 07:12:10
+367	6102516662	-8.00	Открытие кейса: ak47	—	—	2026-11-20 07:11:52
+366	6102516662	-48.79	Покупка: catalog-skin-7646a28247e0-sfui-invtooltip-wear-amount-1	—	—	2026-11-20 03:46:48
+365	6102516662	0.00	Неудачный апгрейд: catalog-skin-b54386e7c78c-sfui-invtooltip-wear-amount-3	—	—	2026-11-19 20:41:55
+364	6102516662	-8.00	Открытие кейса: ak47	—	—	2026-11-19 20:41:24
+363	6102516662	0.00	Неудачный апгрейд: catalog-skin-7646a28247e0-sfui-invtooltip-wear-amount-0	—	—	2026-11-19 20:41:14
+362	6102516662	-160.14	Покупка: catalog-skin-7646a28247e0-sfui-invtooltip-wear-amount-0	—	—	2026-11-19 20:40:24
+361	8876533050	0.00	Неудачный апгрейд: catalog-skin-cc0d5dff95fc-sfui-invtooltip-wear-amount-2	—	—	2026-11-19 18:55:38
+360	8876533050	-66.63	Покупка: catalog-skin-cc0d5dff95fc-sfui-invtooltip-wear-amount-2	—	—	2026-11-19 18:54:44
+359	6102516662	0.00	Неудачный апгрейд: catalog-skin-739d10d062d3-sfui-invtooltip-wear-amount-2	—	—	2026-11-19 15:00:50
+358	6102516662	0.00	Неудачный апгрейд: catalog-skin-74e670c4b279-sfui-invtooltip-wear-amount-1	—	—	2026-11-19 15:00:34
+357	6102516662	0.00	Неудачный апгрейд: catalog-skin-vanilla-weapon-knife-butterfly-standard	—	—	2026-11-19 14:59:41
+356	6102516662	0.00	Апгрейд: catalog-skin-vanilla-weapon-knife-butterfly-standard	—	—	2026-11-19 14:59:15
+355	6102516662	0.00	Апгрейд: catalog-skin-739d10d062d3-sfui-invtooltip-wear-amount-2	—	—	2026-11-19 14:58:53
+354	6102516662	-404.92	Покупка: catalog-skin-96efe50cceb6-sfui-invtooltip-wear-amount-0	—	—	2026-11-19 14:58:44
+353	6102516662	-53.73	Покупка: catalog-skin-74e670c4b279-sfui-invtooltip-wear-amount-1	—	—	2026-11-19 14:58:42
+352	6102516662	-5.66	Покупка: catalog-skin-f10cd3871578-sfui-invtooltip-wear-amount-1	—	—	2026-11-19 14:58:38
+351	6102516662	21.95	Продажа: catalog-skin-0abab7de168d-sfui-invtooltip-wear-amount-1	—	—	2026-11-19 14:58:23
+350	6102516662	0.00	Неудачный апгрейд: catalog-skin-432c5e3957be-sfui-invtooltip-wear-amount-4	—	—	2026-11-19 12:16:40
+349	6102516662	-55.00	Открытие кейса: knife	—	—	2026-11-19 12:16:26
+348	6102516662	-55.00	Открытие кейса: knife	—	—	2026-11-19 12:16:17
+347	6102516662	0.00	Неудачный апгрейд: catalog-skin-3f6a1c06a5b1-sfui-invtooltip-wear-amount-3	—	—	2026-11-19 12:16:06
+346	6102516662	0.00	Неудачный апгрейд: catalog-skin-3f6a1c06a5b1-sfui-invtooltip-wear-amount-2	—	—	2026-11-19 12:15:56
+345	6102516662	0.00	Неудачный апгрейд: catalog-skin-3f6a1c06a5b1-sfui-invtooltip-wear-amount-1	—	—	2026-11-19 12:15:46
+344	6102516662	0.00	Неудачный апгрейд: catalog-skin-b01bdbd2c238-sfui-invtooltip-wear-amount-4	—	—	2026-11-19 12:15:35
+343	6102516662	0.00	Неудачный апгрейд: catalog-skin-b01bdbd2c238-sfui-invtooltip-wear-amount-3	—	—	2026-11-19 12:15:21
+342	6102516662	0.00	Неудачный апгрейд: catalog-skin-b01bdbd2c238-sfui-invtooltip-wear-amount-2	—	—	2026-11-19 12:15:11
+341	6102516662	0.00	Неудачный апгрейд: catalog-skin-5dea0b69d286-sfui-invtooltip-wear-amount-3	—	—	2026-11-19 12:14:51
+340	6102516662	0.00	Неудачный апгрейд: catalog-skin-5dea0b69d286-sfui-invtooltip-wear-amount-2	—	—	2026-11-19 12:14:41
+339	6102516662	0.00	Неудачный апгрейд: catalog-skin-5dea0b69d286-sfui-invtooltip-wear-amount-4	—	—	2026-11-19 12:14:31
+338	6102516662	0.00	Неудачный апгрейд: catalog-skin-5dea0b69d286-sfui-invtooltip-wear-amount-1	—	—	2026-11-19 12:14:21
+337	6102516662	0.00	Неудачный апгрейд: catalog-skin-a169fd0b8b16-sfui-invtooltip-wear-amount-2	—	—	2026-11-19 12:14:09
+336	6102516662	0.00	Неудачный апгрейд: catalog-skin-6305d7d593bd-sfui-invtooltip-wear-amount-2	—	—	2026-11-19 12:13:59
+335	6102516662	-0.02	Покупка: catalog-skin-3f6a1c06a5b1-sfui-invtooltip-wear-amount-3	—	—	2026-11-19 12:13:52
+334	6102516662	-0.02	Покупка: catalog-skin-3f6a1c06a5b1-sfui-invtooltip-wear-amount-2	—	—	2026-11-19 12:13:52
+333	6102516662	-0.02	Покупка: catalog-skin-3f6a1c06a5b1-sfui-invtooltip-wear-amount-1	—	—	2026-11-19 12:13:51
+332	6102516662	-0.02	Покупка: catalog-skin-b01bdbd2c238-sfui-invtooltip-wear-amount-4	—	—	2026-11-19 12:13:51
+331	6102516662	-0.02	Покупка: catalog-skin-b01bdbd2c238-sfui-invtooltip-wear-amount-3	—	—	2026-11-19 12:13:51
+330	6102516662	-0.02	Покупка: catalog-skin-b01bdbd2c238-sfui-invtooltip-wear-amount-2	—	—	2026-11-19 12:13:51
+329	6102516662	-0.02	Покупка: catalog-skin-5dea0b69d286-sfui-invtooltip-wear-amount-4	—	—	2026-11-19 12:13:49
+328	6102516662	-0.02	Покупка: catalog-skin-5dea0b69d286-sfui-invtooltip-wear-amount-3	—	—	2026-11-19 12:13:49
+327	6102516662	-0.02	Покупка: catalog-skin-5dea0b69d286-sfui-invtooltip-wear-amount-2	—	—	2026-11-19 12:13:48
+326	6102516662	-0.02	Покупка: catalog-skin-5dea0b69d286-sfui-invtooltip-wear-amount-1	—	—	2026-11-19 12:13:48
+325	6102516662	-0.02	Покупка: catalog-skin-a169fd0b8b16-sfui-invtooltip-wear-amount-2	—	—	2026-11-19 12:13:47
+324	6102516662	-0.02	Покупка: catalog-skin-6305d7d593bd-sfui-invtooltip-wear-amount-2	—	—	2026-11-19 12:13:47
+323	6102516662	0.00	Неудачный апгрейд: catalog-skin-e728cedb22fe-sfui-invtooltip-wear-amount-2	—	—	2026-11-19 12:13:31
+
+[LAST 100 GAMES]
+event_id	telegram_id	game	outcome	wager	payout	created_at
+306cf737-3f44-4fc9-b678-02b53f133d92	6102516662	mines	win	9999.00	39796.02	2026-11-20 07:11:38
+e9480ace-5dd0-49cf-b7e5-7f6bda6fc3e0	6102516662	mines	loss	9999.00	0.00	2026-11-20 07:11:36
+482efb61-c7f7-42f9-bde1-5bf6ba5cf698	6102516662	mines	loss	9999.00	0.00	2026-11-20 07:11:35
+e867109c-4206-4cc9-baa8-1fbadb46bfb1	6102516662	mines	loss	9999.00	0.00	2026-11-20 07:11:32
+55344078-7505-4960-a6fc-3ba5d2dbd783	6102516662	mines	loss	9999.00	0.00	2026-11-20 07:11:30
+c01e5f4a-ba69-452f-babf-7057d55fbf5a	6102516662	mines	loss	9999.00	0.00	2026-11-20 07:11:26
+7dc73799-e4be-42dd-9410-f154d8409385	6102516662	mines	loss	9999.00	0.00	2026-11-20 07:11:19
+233713c8-60a7-4ca3-91c4-7ae68c35c87a	6102516662	mines	loss	9999.00	0.00	2026-11-20 07:11:16
+b423af19-1adb-49bc-bace-79157f824ad9	6102516662	mines	loss	9999.00	0.00	2026-11-20 07:11:13
+b8a8c2f7-8c10-404d-9d0b-c05b085d1c5e	6102516662	mines	win	9999.00	14498.55	2026-11-20 07:11:09
+5cd21468-89bd-4761-9ccc-971d64fc13fa	6102516662	mines	win	9999.00	39796.02	2026-11-20 07:10:57
+478925c4-b4fc-47ee-9965-df81116c7f3d	6102516662	mines	loss	9999.00	0.00	2026-11-20 07:10:53
+086988c7-9909-438d-adba-b4a91aa65c3c	6102516662	mines	loss	9999.00	0.00	2026-11-20 07:10:51
+a49fa849-f39c-4bfb-a590-8df5347a9d14	6102516662	mines	win	1000.00	1680.00	2026-11-20 07:10:42
+8e954e07-92a5-494f-8301-13caac9b35cc	6102516662	mines	started	1000.00	0.00	2026-11-20 07:10:39
+09a552ae-c06d-49c4-9ad9-64b4200d073f	6102516662	mines	win	1000.00	2730.00	2026-11-20 07:10:29
+527fe7c2-4a53-44e9-b014-fa9911135abb	6102516662	mines	win	1000.00	3980.00	2026-11-20 07:10:20
+dffb0c55-3a4a-4eb9-9d7c-422346aa6b0a	6102516662	mines	loss	1000.00	0.00	2026-11-20 07:10:13
+8a2fd435-7f93-4524-97ac-c25c6772db16	6102516662	mines	loss	1000.00	0.00	2026-11-20 07:10:12
+3a829c27-03fb-452d-9b87-e972014c354c	6102516662	mines	loss	1000.00	0.00	2026-11-20 07:10:10
+8e24d933-6a45-4385-8505-81f5e97ae357	6102516662	mines	loss	1000.00	0.00	2026-11-20 07:10:08
+4e25149f-2941-4ba4-9a26-dad4d52cfd68	6102516662	mines	loss	1000.00	0.00	2026-11-20 07:10:03
+771247e6-fa0c-4ebb-8425-1aca863eb799	6102516662	mines	loss	1000.00	0.00	2026-11-20 07:09:58
+884b4864-b308-45c6-aa82-25e763962397	6102516662	mines	win	1000.00	3980.00	2026-11-20 07:09:47
+25153628-9355-46b4-bd30-be767462169c	6102516662	mines	loss	1000.00	0.00	2026-11-20 07:09:44
+6776db8a-639a-439d-85b5-ce4240ed2316	6102516662	mines	win	1000.00	2300.00	2026-11-20 07:09:25
+19e94331-f60b-47ef-a6f2-be9238faa3c9	6102516662	mines	loss	10.00	0.00	2026-11-20 07:09:17
+361e67fe-b625-432e-ab63-db3d902405c5	6102516662	mines	win	10.00	27.30	2026-11-20 07:09:07
+f9f2f170-d0f7-45c4-9ed6-b29741cfe19b	6102516662	mines	loss	10.00	0.00	2026-11-20 07:09:03
+79b6cc76-3c7b-4788-9f50-5402edc074dd	6102516662	coinflip	win	10.00	19.00	2026-11-19 20:42:17
+2023ad0b-39be-4296-bf10-bbf5533b7fad	6102516662	crash	win	10.00	30.82	2026-11-19 20:39:56
+a320a27a-1a9f-4118-8a0a-569454a92768	6102516662	crash	win	10.00	12.52	2026-11-19 10:31:22
+70d11e2d-a24f-4cf0-810c-dc2f681c39aa	6102516662	crash	win	10.00	11.62	2026-11-19 10:31:21
+3e67b095-4a72-4e91-b46c-f9795464ca05	6102516662	crash	win	10.00	10.00	2026-11-19 10:31:21
+7c6f4059-70f2-4934-a48f-ca2251be9ade	6102516662	crash	win	10.00	12.71	2026-11-19 10:31:20
+8bbe189e-8c79-49f4-a0b9-c51898e9fd77	6102516662	crash	win	10.00	10.78	2026-11-19 10:31:19
+3ecc7f75-a00f-4c03-b303-87b975915203	6102516662	crash	win	10.00	12.54	2026-11-19 10:31:19
+f1390c22-731c-442c-b763-5e0d1e7561d5	6102516662	crash	win	10.00	11.62	2026-11-19 10:31:18
+71d4d3b7-10f9-4e19-8ae6-91cb76bc4e50	6102516662	crash	started	10.00	0.00	2026-11-19 10:31:17
+e2e5b5ca-c024-47cb-b632-5e46ac9790b6	6102516662	crash	loss	10.00	0.00	2026-11-19 10:31:16
+b43cccf1-2ba3-4fed-be90-5807609e7919	6102516662	crash	win	10.00	12.54	2026-11-19 10:31:15
+a98f4621-93a1-4e38-9cb3-8e51788b081b	6102516662	crash	win	10.00	11.81	2026-11-19 10:31:14
+27be10a4-8513-41db-a055-a52eb4bda05a	6102516662	crash	win	10.00	11.63	2026-11-19 10:31:13
+5b9d4fda-368a-4b6f-b199-1bfb76dcf478	6102516662	roulette	win	5000.00	70000.00	2026-11-19 10:31:05
+a843af8a-bf87-4362-a891-b2a3346eebb1	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:31:02
+bff38a77-cb44-4f49-8587-68adf4a7261c	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:30:59
+5eb75fed-248f-4305-9556-36fd4e94d64a	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:30:55
+0d18c7a2-e551-45ad-8de4-3b5d3b517f96	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:30:51
+93157c8a-e111-4dee-abbf-005fd5433318	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:30:48
+7d9eee46-6675-4266-b447-0f202c015bd5	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:30:44
+fe884120-3ccb-4bf0-beee-8b37e8a0654f	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:30:40
+7bd936d7-5d90-465a-ab87-b4b14c8e2534	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:30:37
+ea9c71a5-371c-4674-bc04-b89d4cb60420	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:30:33
+048f8e7f-511b-4d7e-9eca-9c2fa60bace3	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:30:30
+56ca75ac-e2d4-4ffc-a355-d5349a04285d	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:30:26
+2eb246d5-7d0a-45c9-8372-c899e92ac452	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:30:23
+cca32e2a-bf5c-4aec-aa85-7cf9c353affe	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:30:19
+1b3113fa-3c50-49f8-8e34-a1098f13c6c0	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:30:16
+c7826aba-aeec-4442-8d5a-c0dba520c120	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:30:12
+373baa3c-b241-419b-881a-513ff9f76945	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:30:08
+3c95a5cd-ae33-458d-b78d-6e65da46b2b8	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:30:05
+80968b96-025a-46fa-8def-01e9790d5a59	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:30:01
+a7a45da6-4ae4-4b07-975f-922b7f48fcc1	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:29:57
+c6fc9bdf-e2d1-43de-9510-6fc2505716ff	6102516662	roulette	win	5000.00	70000.00	2026-11-19 10:29:52
+18bce2d0-474d-4bba-86bb-50c6c258f4d9	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:29:49
+0f3e4432-9f3f-4b56-bbc7-7f54f3776eb5	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:29:45
+9b14d173-6aeb-4f83-984a-13cebad04531	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:29:42
+20f2c4a7-2c4f-4dc5-88ff-5cbdab8382ed	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:29:38
+5bf3612d-7e30-437b-a818-0c6e382baeb1	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:29:33
+5ae22702-ad64-48c3-bd29-fc859d17aeee	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:29:29
+60d9bb63-2b59-4dea-83ee-38683c33452a	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:29:26
+2de0fa97-aea7-46bc-b932-2ca0a790f464	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:29:22
+f6f505c2-e7b9-4fa6-93f2-9f05a7345efb	6102516662	roulette	win	5000.00	70000.00	2026-11-19 10:29:14
+04225f83-c1bb-4d69-93b8-a24b8cef055c	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:29:10
+91346d23-cfb3-49ad-af05-d659df15579e	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:29:07
+0dcb197f-819c-4d49-9ba3-fcf587a1c6e1	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:29:03
+173bee27-7fa2-45ae-b5b8-d2aea225725c	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:28:59
+87854c5a-777e-4de6-9124-6030f78027c5	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:28:57
+d4f18d5c-403b-4507-b3bd-a9aed6939ad3	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:28:52
+a0cb8c95-d967-411f-b2e9-3272cff5c2c7	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:28:49
+d8531fb0-863d-4082-a124-c8041549ce8d	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:28:45
+1813ce3f-6c60-4049-89ff-86e41d5d2ace	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:28:41
+b45c3bb9-6274-4d5f-af98-8257ec56dc43	6102516662	roulette	loss	5000.00	0.00	2026-11-19 10:28:38
+f00a465e-3935-45a8-b49f-91ca9ef62eaa	6102516662	roulette	win	5000.00	10000.00	2026-11-19 10:28:29
+5e5ec1ff-b91b-4a98-80f3-dd62a44c5a04	6102516662	roulette	win	5000.00	10000.00	2026-11-19 10:28:26
+15d29937-fef1-4c33-bc75-2b275397a383	6102516662	roulette	win	5000.00	10000.00	2026-11-19 10:28:22
+b36ed5b7-999c-4cf8-b6df-e53292234964	6102516662	roulette	win	10.00	20.00	2026-11-19 10:28:19
+fdeadef5-c046-4f30-9230-b4567ef63f15	6102516662	roulette	loss	100.00	0.00	2026-11-19 10:27:32
+c7114cc0-1ced-4e35-9752-aa2662932ffe	6102516662	roulette	loss	100.00	0.00	2026-11-19 10:27:28
+89629ae9-043f-408b-a9ce-692eaf8ba7fe	6102516662	roulette	loss	100.00	0.00	2026-11-19 10:27:25
+410e3f14-f5cd-442d-8d50-32407d8bd7dc	6102516662	roulette	loss	1000.00	0.00	2026-11-19 10:27:17
+648242c7-495b-4283-adbe-7e10af15e177	6102516662	roulette	loss	1000.00	0.00	2026-11-19 10:27:13
+7c90631e-e56b-4c94-8af6-378610a5a634	6102516662	roulette	loss	1000.00	0.00	2026-11-19 10:27:09
+f89e3f65-8ddc-4f23-91b3-e5d18d7ac0d9	6102516662	roulette	loss	1000.00	0.00	2026-11-19 10:27:05
+cef6fbae-4b91-4d6c-9233-580976a82a35	6102516662	mines	loss	1000.00	0.00	2026-11-19 10:26:53
+e33a2a35-c312-4472-aa88-9dd857ca1941	6102516662	mines	win	1000.00	2300.00	2026-11-19 10:26:44
+04d55515-04d4-4201-93c6-e92add8b0a58	6102516662	mines	win	1000.00	1450.00	2026-11-19 10:26:42
+f3e79bd8-6e69-4152-9cb7-8602d28a90d4	6102516662	mines	loss	1000.00	0.00	2026-11-19 10:26:40
+53efe0a1-53e9-4545-95fc-b66622c19aec	6102516662	mines	loss	5000.00	0.00	2026-11-19 10:26:29
+22a937a3-0eb0-4902-81b1-fb1d124938b2	6102516662	mines	win	10.00	23.00	2026-11-19 10:26:17
+
+[LAST 100 ADMIN ACTIONS]
+admin_id	target_id	action	old_value	new_value	reason	created_at
+6102516662	8876533050	add_coins	33.370000000000005	533.37	Гей	2026-11-20 18:31:59
+6102516662	6102516662	add_coins	9582.360000000002	509582.36	Gg	2026-11-19 10:27:50
+6102516662	6102516662	add_coins	0.46999999999999176	10000.47	Mamenky	2026-11-18 17:40:06
+6102516662	6102516662	add_coins	29.75000000000006	89.75	Gg	2026-11-18 17:30:02
