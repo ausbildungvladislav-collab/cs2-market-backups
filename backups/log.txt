@@ -1,0 +1,239 @@
+CS2 MARKET DATA SNAPSHOT
+
+[PLAYERS]
+telegram_id	username	balance	status	registered_at	last_active	inventory
+6102516662	s1mplex1d	2519.88	active	2026-11-18 05:56:44	2026-11-28 16:49:56	—
+8876533050	Тихон	418.67	active	2026-11-19 18:52:28	2026-11-23 18:42:51	catalog-skin-1f95db2031e4-sfui-invtooltip-wear-amount-3, catalog-skin-5bd16f2599cf-sfui-invtooltip-wear-amount-4, catalog-skin-9197715f9f3f-sfui-invtooltip-wear-amount-1, catalog-skin-9197715f9f3f-sfui-invtooltip-wear-amount-3, catalog-skin-9197715f9f3f-sfui-invtooltip-wear-amount-4, catalog-skin-b986a2456e28-sfui-invtooltip-wear-amount-2, catalog-skin-b986a2456e28-sfui-invtooltip-wear-amount-4
+1906081574	Illyajr	100.00	active	2026-11-20 18:46:14	2026-11-20 18:46:24	—
+8036024640	Protywwsech	83.13	active	2026-11-21 16:03:11	2026-11-28 16:33:03	catalog-skin-1cae9ba1aa38-sfui-invtooltip-wear-amount-1, catalog-skin-1cae9ba1aa38-sfui-invtooltip-wear-amount-2, catalog-skin-1cae9ba1aa38-sfui-invtooltip-wear-amount-3, catalog-skin-597120dcc9dc-sfui-invtooltip-wear-amount-3, catalog-skin-597120dcc9dc-sfui-invtooltip-wear-amount-4, catalog-skin-64f9b04b2558-sfui-invtooltip-wear-amount-1, catalog-skin-64f9b04b2558-sfui-invtooltip-wear-amount-2, catalog-skin-64f9b04b2558-sfui-invtooltip-wear-amount-3, catalog-skin-64f9b04b2558-sfui-invtooltip-wear-amount-4, catalog-skin-66a37bb94450-sfui-invtooltip-wear-amount-1, catalog-skin-66a37bb94450-sfui-invtooltip-wear-amount-2, catalog-skin-968b010d42f7-sfui-invtooltip-wear-amount-1, catalog-skin-968b010d42f7-sfui-invtooltip-wear-amount-2, catalog-skin-968b010d42f7-sfui-invtooltip-wear-amount-3, catalog-skin-968b010d42f7-sfui-invtooltip-wear-amount-4
+7978988668	Vanya_$bilionaire$💸💰	1060909.10	active	2026-11-23 16:37:42	2026-11-28 13:40:57	catalog-skin-35313981918b-sfui-invtooltip-wear-amount-1, catalog-skin-35313981918b-sfui-invtooltip-wear-amount-2, catalog-skin-35313981918b-sfui-invtooltip-wear-amount-3, catalog-skin-35313981918b-sfui-invtooltip-wear-amount-4, catalog-skin-3cb4d80d3243-sfui-invtooltip-wear-amount-2, catalog-skin-3cb4d80d3243-sfui-invtooltip-wear-amount-3, catalog-skin-3cb4d80d3243-sfui-invtooltip-wear-amount-4, catalog-skin-3e29c2ccb9d9-sfui-invtooltip-wear-amount-4, catalog-skin-484fe1d0665e-sfui-invtooltip-wear-amount-1, catalog-skin-484fe1d0665e-sfui-invtooltip-wear-amount-2, catalog-skin-484fe1d0665e-sfui-invtooltip-wear-amount-3, catalog-skin-484fe1d0665e-sfui-invtooltip-wear-amount-4, catalog-skin-505c66da36c8-sfui-invtooltip-wear-amount-1, catalog-skin-56333a38bf41-sfui-invtooltip-wear-amount-1, catalog-skin-56333a38bf41-sfui-invtooltip-wear-amount-2, catalog-skin-56333a38bf41-sfui-invtooltip-wear-amount-3, catalog-skin-56333a38bf41-sfui-invtooltip-wear-amount-4, catalog-skin-5e5fcd7cad8e-sfui-invtooltip-wear-amount-1, catalog-skin-5e5fcd7cad8e-sfui-invtooltip-wear-amount-2, catalog-skin-5e5fcd7cad8e-sfui-invtooltip-wear-amount-3, catalog-skin-5e5fcd7cad8e-sfui-invtooltip-wear-amount-4, catalog-skin-5fdbc79e9391-sfui-invtooltip-wear-amount-2, catalog-skin-5fdbc79e9391-sfui-invtooltip-wear-amount-3, catalog-skin-5fdbc79e9391-sfui-invtooltip-wear-amount-4, catalog-skin-6467891391e9-sfui-invtooltip-wear-amount-2, catalog-skin-6467891391e9-sfui-invtooltip-wear-amount-4, catalog-skin-6e77ad6f522c-sfui-invtooltip-wear-amount-1, catalog-skin-6e77ad6f522c-sfui-invtooltip-wear-amount-2, catalog-skin-6e77ad6f522c-sfui-invtooltip-wear-amount-3, catalog-skin-6e77ad6f522c-sfui-invtooltip-wear-amount-4, catalog-skin-7f85393d2fb1-sfui-invtooltip-wear-amount-1, catalog-skin-87624ab1abed-sfui-invtooltip-wear-amount-1, catalog-skin-87624ab1abed-sfui-invtooltip-wear-amount-2, catalog-skin-87624ab1abed-sfui-invtooltip-wear-amount-3, catalog-skin-87624ab1abed-sfui-invtooltip-wear-amount-4, catalog-skin-8ac8f9231892-sfui-invtooltip-wear-amount-4, catalog-skin-921a5a81c48a-sfui-invtooltip-wear-amount-0, catalog-skin-9abf6c56653a-sfui-invtooltip-wear-amount-1, catalog-skin-9abf6c56653a-sfui-invtooltip-wear-amount-2, catalog-skin-9abf6c56653a-sfui-invtooltip-wear-amount-3, catalog-skin-9abf6c56653a-sfui-invtooltip-wear-amount-4, catalog-skin-b6116401828b-sfui-invtooltip-wear-amount-2, catalog-skin-b6116401828b-sfui-invtooltip-wear-amount-4, catalog-skin-e04a45208ba1-sfui-invtooltip-wear-amount-1, catalog-skin-e04a45208ba1-sfui-invtooltip-wear-amount-2, catalog-skin-e04a45208ba1-sfui-invtooltip-wear-amount-3, catalog-skin-e04a45208ba1-sfui-invtooltip-wear-amount-4, catalog-skin-e56f49876bdd-sfui-invtooltip-wear-amount-2, catalog-skin-e56f49876bdd-sfui-invtooltip-wear-amount-3, catalog-skin-e56f49876bdd-sfui-invtooltip-wear-amount-4, catalog-skin-f9f850e1e389-sfui-invtooltip-wear-amount-1, catalog-skin-f9f850e1e389-sfui-invtooltip-wear-amount-2, catalog-skin-f9f850e1e389-sfui-invtooltip-wear-amount-3, catalog-skin-f9f850e1e389-sfui-invtooltip-wear-amount-4, catalog-skin-feb04bb1e0da-sfui-invtooltip-wear-amount-4
+8182036921	as12345pil	27.10	active	2026-11-24 18:35:31	2026-11-24 18:37:23	catalog-skin-6370d1af59f7-sfui-invtooltip-wear-amount-2, catalog-skin-a6b38e973280-sfui-invtooltip-wear-amount-4
+8226154617	Barca Fan	304121.14	active	2026-11-25 08:23:08	2026-11-25 12:49:10	catalog-skin-1cae9ba1aa38-sfui-invtooltip-wear-amount-2, catalog-skin-1cae9ba1aa38-sfui-invtooltip-wear-amount-3, catalog-skin-3f6a1c06a5b1-sfui-invtooltip-wear-amount-2, catalog-skin-3f6a1c06a5b1-sfui-invtooltip-wear-amount-3, catalog-skin-3f6a1c06a5b1-sfui-invtooltip-wear-amount-4, catalog-skin-5430f34eb2d8-sfui-invtooltip-wear-amount-1, catalog-skin-5430f34eb2d8-sfui-invtooltip-wear-amount-2, catalog-skin-5430f34eb2d8-sfui-invtooltip-wear-amount-3, catalog-skin-5430f34eb2d8-sfui-invtooltip-wear-amount-4, catalog-skin-597120dcc9dc-sfui-invtooltip-wear-amount-2, catalog-skin-597120dcc9dc-sfui-invtooltip-wear-amount-3, catalog-skin-597120dcc9dc-sfui-invtooltip-wear-amount-4, catalog-skin-5dea0b69d286-sfui-invtooltip-wear-amount-4, catalog-skin-64d604ccd5cf-sfui-invtooltip-wear-amount-2, catalog-skin-64d604ccd5cf-sfui-invtooltip-wear-amount-3, catalog-skin-64f9b04b2558-sfui-invtooltip-wear-amount-1, catalog-skin-64f9b04b2558-sfui-invtooltip-wear-amount-2, catalog-skin-64f9b04b2558-sfui-invtooltip-wear-amount-3, catalog-skin-64f9b04b2558-sfui-invtooltip-wear-amount-4, catalog-skin-66a37bb94450-sfui-invtooltip-wear-amount-1, catalog-skin-66a37bb94450-sfui-invtooltip-wear-amount-2, catalog-skin-66a37bb94450-sfui-invtooltip-wear-amount-3, catalog-skin-66a37bb94450-sfui-invtooltip-wear-amount-4, catalog-skin-8ac8f9231892-sfui-invtooltip-wear-amount-1, catalog-skin-8ac8f9231892-sfui-invtooltip-wear-amount-2, catalog-skin-8ac8f9231892-sfui-invtooltip-wear-amount-3, catalog-skin-8ac8f9231892-sfui-invtooltip-wear-amount-4, catalog-skin-968b010d42f7-sfui-invtooltip-wear-amount-1, catalog-skin-968b010d42f7-sfui-invtooltip-wear-amount-2, catalog-skin-968b010d42f7-sfui-invtooltip-wear-amount-3, catalog-skin-968b010d42f7-sfui-invtooltip-wear-amount-4, catalog-skin-b01bdbd2c238-sfui-invtooltip-wear-amount-3, catalog-skin-b01bdbd2c238-sfui-invtooltip-wear-amount-4
+8029638434	Giuseppe Verderame	30799.48	active	2026-11-25 08:25:31	2026-11-27 23:11:42	catalog-skin-3f6a1c06a5b1-sfui-invtooltip-wear-amount-2, catalog-skin-3f6a1c06a5b1-sfui-invtooltip-wear-amount-3, catalog-skin-3f6a1c06a5b1-sfui-invtooltip-wear-amount-4, catalog-skin-5430f34eb2d8-sfui-invtooltip-wear-amount-1, catalog-skin-5430f34eb2d8-sfui-invtooltip-wear-amount-2, catalog-skin-5430f34eb2d8-sfui-invtooltip-wear-amount-3, catalog-skin-64d604ccd5cf-sfui-invtooltip-wear-amount-2, catalog-skin-64d604ccd5cf-sfui-invtooltip-wear-amount-3, catalog-skin-921a5a81c48a-sfui-invtooltip-wear-amount-0, catalog-skin-b01bdbd2c238-sfui-invtooltip-wear-amount-3, catalog-skin-b01bdbd2c238-sfui-invtooltip-wear-amount-4
+9178892249	Jagveer Singh	10882.69	active	2026-11-25 09:12:01	2026-11-26 10:24:12	catalog-skin-3f6a1c06a5b1-sfui-invtooltip-wear-amount-3, catalog-skin-3f6a1c06a5b1-sfui-invtooltip-wear-amount-4, catalog-skin-5430f34eb2d8-sfui-invtooltip-wear-amount-1, catalog-skin-5430f34eb2d8-sfui-invtooltip-wear-amount-2, catalog-skin-5430f34eb2d8-sfui-invtooltip-wear-amount-3, catalog-skin-5dea0b69d286-sfui-invtooltip-wear-amount-0, catalog-skin-5dea0b69d286-sfui-invtooltip-wear-amount-1, catalog-skin-5dea0b69d286-sfui-invtooltip-wear-amount-2, catalog-skin-5dea0b69d286-sfui-invtooltip-wear-amount-3, catalog-skin-5dea0b69d286-sfui-invtooltip-wear-amount-4, catalog-skin-6305d7d593bd-sfui-invtooltip-wear-amount-2, catalog-skin-6305d7d593bd-sfui-invtooltip-wear-amount-3, catalog-skin-64d604ccd5cf-sfui-invtooltip-wear-amount-2, catalog-skin-64d604ccd5cf-sfui-invtooltip-wear-amount-3, catalog-skin-921a5a81c48a-sfui-invtooltip-wear-amount-0, catalog-skin-a169fd0b8b16-sfui-invtooltip-wear-amount-2, catalog-skin-a169fd0b8b16-sfui-invtooltip-wear-amount-4, catalog-skin-b01bdbd2c238-sfui-invtooltip-wear-amount-3
+7416203317	РР ЯЯ	99.81	active	2026-11-25 14:27:29	2026-11-25 14:30:13	catalog-skin-58267df1cb9f-sfui-invtooltip-wear-amount-3, catalog-skin-5dea0b69d286-sfui-invtooltip-wear-amount-3, catalog-skin-5dea0b69d286-sfui-invtooltip-wear-amount-4, catalog-skin-b01bdbd2c238-sfui-invtooltip-wear-amount-2, catalog-skin-b01bdbd2c238-sfui-invtooltip-wear-amount-3, catalog-skin-b01bdbd2c238-sfui-invtooltip-wear-amount-4
+
+[LAST 100 TRANSACTIONS]
+id	telegram_id	amount	label	admin_id	reason	created_at
+6413	8036024640	0.00	Mines: проигрыш	—	—	2026-11-28 14:35:06
+6412	8036024640	-100.00	Mines: ставка	—	—	2026-11-28 14:35:06
+6411	8036024640	0.00	Mines: проигрыш	—	—	2026-11-28 14:35:04
+6410	8036024640	-100.00	Mines: ставка	—	—	2026-11-28 14:35:03
+6409	8036024640	0.00	Mines: проигрыш	—	—	2026-11-28 14:35:02
+6408	8036024640	-100.00	Mines: ставка	—	—	2026-11-28 14:35:01
+6407	8036024640	0.00	Mines: проигрыш	—	—	2026-11-28 14:35:00
+6406	8036024640	-100.00	Mines: ставка	—	—	2026-11-28 14:34:59
+6405	8036024640	0.00	Mines: проигрыш	—	—	2026-11-28 14:34:58
+6404	8036024640	-100.00	Mines: ставка	—	—	2026-11-28 14:34:56
+6403	8036024640	485.00	Mines: выигрыш	—	—	2026-11-28 14:34:54
+6402	8036024640	-100.00	Mines: ставка	—	—	2026-11-28 14:34:52
+6401	8036024640	0.00	Mines: проигрыш	—	—	2026-11-28 14:34:50
+6400	8036024640	-100.00	Mines: ставка	—	—	2026-11-28 14:34:49
+6399	8036024640	0.00	Mines: проигрыш	—	—	2026-11-28 14:34:40
+6398	8036024640	-100.00	Mines: ставка	—	—	2026-11-28 14:34:34
+6397	8029638434	0.00	Неудачный апгрейд: catalog-skin-5dea0b69d286-sfui-invtooltip-wear-amount-4	—	—	2026-11-27 23:11:42
+6396	8029638434	-0.01	Покупка шанса апгрейда	—	—	2026-11-27 23:11:42
+6395	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:18:55
+6394	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:18:51
+6393	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:18:49
+6392	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:18:48
+6391	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:18:47
+6390	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:18:46
+6389	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:18:44
+6388	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:18:43
+6387	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:18:41
+6386	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:18:37
+6385	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:18:36
+6384	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:18:35
+6383	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:18:34
+6382	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:18:33
+6381	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:18:31
+6380	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:18:29
+6379	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:18:27
+6378	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:18:26
+6377	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:18:24
+6376	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:18:23
+6375	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:18:21
+6374	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:18:21
+6373	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:18:19
+6372	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:18:18
+6371	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:18:17
+6370	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:18:16
+6369	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:18:15
+6368	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:18:15
+6367	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:18:14
+6366	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:18:12
+6365	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:18:10
+6364	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:18:06
+6363	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:18:05
+6362	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:10:56
+6361	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:10:55
+6360	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:10:55
+6359	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:10:54
+6358	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:10:53
+6357	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:10:52
+6356	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:10:51
+6355	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:10:50
+6354	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:10:49
+6353	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:10:48
+6352	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:10:46
+6351	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:10:45
+6350	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:10:44
+6349	6102516662	4850.00	Mines: выигрыш	—	—	2026-11-27 13:10:41
+6348	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:10:33
+6347	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:10:31
+6346	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:10:25
+6345	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:10:24
+6344	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:10:23
+6343	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:10:20
+6342	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:10:19
+6341	6102516662	2770.00	Mines: выигрыш	—	—	2026-11-27 13:10:13
+6340	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:10:10
+6339	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:10:08
+6338	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:10:07
+6337	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:10:06
+6336	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:10:05
+6335	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:10:04
+6334	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:10:01
+6333	6102516662	2770.00	Mines: выигрыш	—	—	2026-11-27 13:09:59
+6332	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:09:54
+6331	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:09:53
+6330	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:09:52
+6329	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:09:51
+6328	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:09:49
+6327	6102516662	4900.00	Mines: выигрыш	—	—	2026-11-27 13:09:47
+6326	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:09:39
+6325	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:09:37
+6324	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:09:27
+6323	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:09:26
+6322	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:09:25
+6321	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:09:24
+6320	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:09:23
+6319	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:09:22
+6318	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:09:20
+6317	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:08:39
+6316	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:08:38
+6315	6102516662	0.00	Mines: проигрыш	—	—	2026-11-27 13:08:36
+6314	6102516662	-1000.00	Mines: ставка	—	—	2026-11-27 13:08:35
+
+[LAST 100 GAMES]
+event_id	telegram_id	game	outcome	wager	payout	created_at
+f906407f-9e35-4801-9528-f2fa50b3bb33	8036024640	mines	loss	100.00	0.00	2026-11-28 14:35:06
+ea999c19-633d-4493-b454-a24e9d687d87	8036024640	mines	loss	100.00	0.00	2026-11-28 14:35:03
+c2a517d9-a11f-47f8-8978-e19315560bc1	8036024640	mines	loss	100.00	0.00	2026-11-28 14:35:01
+abe5ea5a-73c7-4010-ab55-3cb6ba710739	8036024640	mines	loss	100.00	0.00	2026-11-28 14:34:59
+58f1843b-9aab-4979-8f6b-cd84f3218103	8036024640	mines	loss	100.00	0.00	2026-11-28 14:34:56
+c97eae41-0333-4381-a3f2-02a8eb64357c	8036024640	mines	win	100.00	485.00	2026-11-28 14:34:52
+f9dd4d02-3153-4859-9b9d-2e650f11faf3	8036024640	mines	loss	100.00	0.00	2026-11-28 14:34:49
+03be7a40-4a43-4543-8bb4-9af85d825a8d	8036024640	mines	loss	100.00	0.00	2026-11-28 14:34:34
+e58bb30c-d0d1-4823-8817-9abf20cea62c	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:18:51
+f44c47a7-12ac-43ba-a9fc-b62f127b358c	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:18:48
+cceb575d-47ae-474f-b7ab-417dbec617e6	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:18:46
+130c2223-2e91-4675-bb50-c4e15294d33b	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:18:43
+328f1505-ab52-44e3-b6bf-1f6afa50f2e8	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:18:37
+2a384a7a-6a8c-47ae-b724-df18f116d34a	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:18:35
+becde3d0-f8ab-4ca0-8571-fa804e2e627d	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:18:33
+92048047-ebe3-4dc8-982a-00b92d8693ae	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:18:29
+302435bf-f393-4704-b420-51808fd01188	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:18:26
+f4b65ebb-c812-488f-8539-307d09ff81a8	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:18:23
+370505aa-0204-4197-a470-aa1fc09234df	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:18:21
+c13a71d4-433f-448e-84a5-69a47f144515	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:18:18
+108138bc-8cc3-492b-b2a1-db9c87851d02	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:18:16
+6d54588b-1ec2-4cda-bc91-7f9810f25f48	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:18:15
+5a70d026-c3a8-4159-a6e9-2b38cc017049	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:18:12
+e7d55803-85e8-4b1e-ad3e-83a232ce1e42	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:18:06
+3615cd5f-b125-4e75-bd58-44f3e7bea9f8	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:10:56
+d4400462-04d4-40da-852f-cc6bd5999678	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:10:55
+70bf2715-707d-4ad2-8662-3093bb6c0c59	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:10:53
+e0da1b14-acdb-4e6a-8c0e-7c642231483a	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:10:51
+ae181950-d010-4b01-98f3-12e83acd0629	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:10:49
+00c68456-ce3e-405d-a135-f2612f14408f	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:10:46
+3ea01a66-f3e1-4ea7-93c7-945198d50475	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:10:44
+e096dc4a-9e1c-405f-82d6-cd31c7ddd0d4	6102516662	mines	win	1000.00	4850.00	2026-11-27 13:10:33
+9f3b01a7-aaba-47ef-9fae-960ce8fafeb0	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:10:25
+d1d80bab-9d94-4dad-a7d6-6d47963c38b5	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:10:23
+699605a6-27e4-4da7-acb2-01d98c9d019b	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:10:19
+26d529de-de36-4a9e-9228-5e1e0e1b36e6	6102516662	mines	win	1000.00	2770.00	2026-11-27 13:10:10
+7d8e9caf-4ced-43f7-a034-75012943caba	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:10:07
+4a03f8e8-0627-4da0-8325-52f9db847fb5	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:10:05
+fc2b517f-12db-4edf-abb5-7dc9959de66b	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:10:01
+71d7e2af-d5b7-4ff9-9ca0-5aa06192d910	6102516662	mines	win	1000.00	2770.00	2026-11-27 13:09:54
+26d93ac4-28bc-4122-b561-f84d7ddc8a08	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:09:52
+85f65db3-d8e1-4a0a-a4fd-b6a3a5f10b5c	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:09:49
+be65c30b-473f-48b1-b271-0cd01ae6c3d7	6102516662	mines	win	1000.00	4900.00	2026-11-27 13:09:39
+400d5d7c-160d-4d79-a9a3-c512a9c20714	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:09:27
+1a8a9429-9e66-4aad-839b-8366dceef2f3	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:09:25
+7ef6dccf-185e-46b7-962d-84fad714ff67	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:09:23
+d557ca7f-266c-4f9a-9a5f-5e592029a2be	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:09:20
+d22c622c-ebfc-44a0-93f6-513c19823bc1	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:08:38
+f42dff44-3c81-4417-ab9f-5fdf5c500e5f	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:08:35
+453e6be6-4197-45ae-a21b-532888fc487a	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:08:32
+5c1b3309-1cac-459b-8f39-e6d2bda71fd0	6102516662	mines	win	1000.00	1100.00	2026-11-27 13:08:25
+543477b2-0777-4131-a21e-2fe5faee8e76	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:08:18
+01b70775-2034-42df-82d6-b97c77fbcab6	6102516662	mines	loss	1000.00	0.00	2026-11-27 13:08:15
+dc4d3d17-5b32-4139-9399-33bd72c4c572	6102516662	roulette	win	1000.00	14000.00	2026-11-27 13:07:58
+27a80ba7-093f-4c3e-afcb-38cc34356c94	6102516662	roulette	loss	1000.00	0.00	2026-11-27 13:07:54
+030b9ff0-caf3-44a0-a474-076506b27941	6102516662	roulette	loss	1000.00	0.00	2026-11-27 13:07:50
+4681b785-43cb-4608-a1cf-9fdee5302776	6102516662	roulette	loss	10.00	0.00	2026-11-27 13:07:43
+c4ca0f7a-32b9-4fca-ab92-62f1f6c6050f	6102516662	crash	loss	10.00	0.00	2026-11-27 13:07:37
+6c8ecd5a-48c1-48ca-b1af-eae58be14382	6102516662	mines	win	1000.00	1450.00	2026-11-27 13:06:22
+c10c2eb4-5fc6-4522-a9ae-538127075eca	6102516662	mines	win	1000.00	1680.00	2026-11-27 13:06:14
+348207ac-d039-4c9d-8968-7e8206c6f8ec	6102516662	mines	win	1000.00	1680.00	2026-11-27 13:06:04
+9e02b088-1bd1-41af-9bd9-8c2d88677bd0	6102516662	mines	win	1000.00	2300.00	2026-11-27 13:05:52
+13a9d29b-9687-456e-90b9-927b248ba20a	6102516662	mines	loss	10.00	0.00	2026-11-27 13:05:40
+61202f9b-6eef-430e-941e-8a00f840ecf7	8036024640	mines	loss	10000.00	0.00	2026-11-27 07:03:02
+066062a1-5bc8-499a-aff1-4a1d9c6c801a	8036024640	mines	loss	10000.00	0.00	2026-11-27 07:02:56
+48fe7acc-f840-49a5-9f32-7d2ec4d57675	8036024640	mines	loss	10000.00	0.00	2026-11-27 07:02:24
+cadd14d7-fe66-44e3-928b-07e791da719c	8036024640	mines	loss	10000.00	0.00	2026-11-27 07:02:21
+d7495047-6249-4bae-84bd-b27b614d11ae	8036024640	mines	loss	10000.00	0.00	2026-11-27 07:02:18
+acdf51f1-0c2b-41eb-ad36-a984f197c35f	8036024640	mines	loss	10000.00	0.00	2026-11-27 07:02:11
+ca50f55e-91d9-48ef-a818-0494dc74d290	8036024640	mines	loss	10000.00	0.00	2026-11-27 07:01:59
+2cfae548-701c-4e26-8e71-4d426e8be68a	8036024640	mines	loss	10000.00	0.00	2026-11-27 07:01:57
+b07e93bc-73a4-4ab6-9c13-c35c81f94f7f	8036024640	mines	loss	10000.00	0.00	2026-11-27 07:01:54
+c854478a-0c3c-4eb3-be08-d908db205012	8036024640	mines	loss	10000.00	0.00	2026-11-27 07:01:41
+8fb3b3d9-e218-4a59-9be8-26fd217c2307	8036024640	mines	loss	10000.00	0.00	2026-11-27 07:01:33
+c4a54f6b-afd5-47d0-a157-9ed9d7ff7fec	8036024640	mines	loss	10000.00	0.00	2026-11-27 07:01:31
+b85187f6-4c33-4d08-9493-c07577e13e9c	8036024640	mines	win	10000.00	78000.00	2026-11-27 07:00:57
+0c61a731-88c9-4aa9-bd90-b8fd40bb10e6	8036024640	mines	loss	10000.00	0.00	2026-11-27 07:00:49
+fa4af314-f395-4b88-af85-c4effc71b08a	8036024640	mines	loss	1000.00	0.00	2026-11-27 06:55:35
+5fc953db-d6e5-45d4-a43d-65eae4e6214d	8036024640	mines	loss	1000.00	0.00	2026-11-27 06:55:25
+2ce21fbe-aea4-4148-801d-c0506de0c817	8036024640	mines	loss	1000.00	0.00	2026-11-27 06:55:18
+c5c10580-1a24-4369-bf90-dfa7df12b3c5	8036024640	mines	loss	10000.00	0.00	2026-11-26 19:27:32
+486769c3-eb58-4351-95d0-a741469f6747	8036024640	mines	loss	10.00	0.00	2026-11-26 14:40:57
+66f1ed3a-3b68-407c-9df2-ecb11f91f740	8036024640	mines	loss	10.00	0.00	2026-11-26 14:40:55
+7df1f840-7e0b-4d71-914f-d4fb0e6654fd	8036024640	mines	win	10.00	14.50	2026-11-26 14:40:49
+1f6cc834-80a0-4f6e-addd-fee6aa5cd91c	8036024640	mines	loss	100.00	0.00	2026-11-26 14:38:14
+0d3bba6c-6b00-4ff1-91eb-cd1a5d3ef1a5	8036024640	mines	loss	100.00	0.00	2026-11-26 14:38:10
+15f4b15b-5169-454d-b745-16d998a9383e	8036024640	mines	loss	100.00	0.00	2026-11-26 14:38:06
+8ecee78f-1c99-4700-a656-602a727d3f2e	8036024640	mines	loss	100.00	0.00	2026-11-26 14:38:00
+f371b350-8b1a-4b18-92ec-d0c52e33f07b	8036024640	mines	loss	100.00	0.00	2026-11-26 14:37:54
+b57d9833-5d20-4bc0-b501-7611915c5fcc	8036024640	mines	loss	100.00	0.00	2026-11-26 14:34:44
+4254f6f6-1b68-49af-af3f-58825c6c245c	8036024640	mines	loss	100.00	0.00	2026-11-26 14:34:41
+d2b380c6-301b-4d34-8457-c69182f555e1	8036024640	mines	loss	100.00	0.00	2026-11-26 14:34:33
+b3cd3773-ae33-4a8b-9a6f-850f825006ac	8036024640	mines	loss	100.00	0.00	2026-11-26 14:34:28
+fc65fc1a-2b7a-477c-ab5b-fb5fb028fad7	8036024640	mines	loss	100.00	0.00	2026-11-26 14:34:26
+e0085a16-02fb-4472-957d-09807a7b688c	8036024640	mines	loss	100.00	0.00	2026-11-26 14:34:23
+20fc0e9c-38dc-4c51-92f7-f3350ecae2a1	8036024640	mines	loss	100.00	0.00	2026-11-26 14:34:21
+4419c522-6e21-40ee-b517-16f0b1a696dd	8036024640	mines	loss	100.00	0.00	2026-11-26 14:34:18
+e2156ae5-1ddc-4923-a176-54ad2317cd91	8036024640	mines	loss	100.00	0.00	2026-11-26 14:34:10
+8101459b-a186-4919-a2f6-c4116f44f2af	8036024640	mines	loss	100.00	0.00	2026-11-26 14:34:07
+5e3e759c-b359-49d8-a971-8b57e05bfdd3	8036024640	mines	win	100.00	1014.00	2026-11-26 14:33:55
+
+[LAST 100 ADMIN ACTIONS]
+admin_id	target_id	action	old_value	new_value	reason	created_at
+6102516662	6102516662	remove_coins	506279.89	6279.89	Nechochu	2026-11-27 13:05:12
+6102516662	7978988668	add_coins	0.05	6666.05	Билионарь	2026-11-24 08:24:47
+6102516662	8036024640	add_coins	3.46	503.46	Гей	2026-11-23 15:00:29
+6102516662	8036024640	add_coins	2.61	52.61	Geny	2026-11-23 14:10:51
+6102516662	8036024640	add_coins	4.67	10004.67	I vse	2026-11-22 19:56:24
+6102516662	8036024640	add_coins	320.13	60320.13	Гени	2026-11-22 19:04:25
+6102516662	6102516662	add_coins	9582.360000000002	509582.36	Gg	2026-11-19 10:27:50
+6102516662	6102516662	add_coins	0.46999999999999176	10000.47	Mamenky	2026-11-18 17:40:06
+6102516662	6102516662	add_coins	29.75000000000006	89.75	Gg	2026-11-18 17:30:02
+6102516662	8036024640	add_coins	2812.4800000000023	7812.48	Gg	2026-11-21 21:11:51
+6102516662	8036024640	unblock	"blocked"	"active"	Gay	2026-11-21 21:11:39
+6102516662	8036024640	block	"active"	"blocked"	Blocked	2026-11-21 21:08:11
+6102516662	8036024640	remove_coins	12826.549999999992	2826.55	Читер	2026-11-21 18:25:22
+6102516662	8036024640	add_coins	718.96	4818.96	Гей	2026-11-21 16:44:42
+6102516662	8036024640	remove_coins	4718.959999999999	718.96	Гей	2026-11-21 16:43:38
+6102516662	8876533050	add_coins	33.370000000000005	533.37	Гей	2026-11-20 18:31:59

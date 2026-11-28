@@ -1,0 +1,108 @@
+{
+  "generatedAt": "2026-11-28T18:08:14.104Z",
+  "backend": {
+    "status": "online",
+    "uptimeSeconds": 512120,
+    "database": "ok"
+  },
+  "players": {
+    "total": 10,
+    "onlineNow": 0,
+    "activeLast24h": 4,
+    "newLast24h": 0,
+    "blocked": 0
+  },
+  "economy": {
+    "virtualCoinsTotal": 1409961,
+    "inventoryItems": 147,
+    "transactions": 4890,
+    "caseOpens": 754
+  },
+  "games": {
+    "played": 1580,
+    "outcomes": [
+      {
+        "outcome": "loss",
+        "count": 1132
+      },
+      {
+        "outcome": "win",
+        "count": 408
+      }
+    ],
+    "byType": [
+      {
+        "game": "coinflip",
+        "count": 8
+      },
+      {
+        "game": "crash",
+        "count": 175
+      },
+      {
+        "game": "mines",
+        "count": 1186
+      },
+      {
+        "game": "multiplayer_upgrader",
+        "count": 3
+      },
+      {
+        "game": "roulette",
+        "count": 168
+      }
+    ]
+  },
+  "multiplayer": {
+    "activeRooms": 0,
+    "friends": 1,
+    "messages": 4,
+    "rounds": 40
+  },
+  "donations": {
+    "paidCount": 0,
+    "stars": 0
+  },
+  "popularInventorySkins": [
+    {
+      "skinId": "catalog-skin-b01bdbd2c238-sfui-invtooltip-wear-amount-3",
+      "owners": 4
+    },
+    {
+      "skinId": "catalog-skin-3f6a1c06a5b1-sfui-invtooltip-wear-amount-3",
+      "owners": 3
+    },
+    {
+      "skinId": "catalog-skin-3f6a1c06a5b1-sfui-invtooltip-wear-amount-4",
+      "owners": 3
+    },
+    {
+      "skinId": "catalog-skin-5430f34eb2d8-sfui-invtooltip-wear-amount-1",
+      "owners": 3
+    },
+    {
+      "skinId": "catalog-skin-5430f34eb2d8-sfui-invtooltip-wear-amount-2",
+      "owners": 3
+    },
+    {
+      "skinId": "catalog-skin-5430f34eb2d8-sfui-invtooltip-wear-amount-3",
+      "owners": 3
+    },
+    {
+      "skinId": "catalog-skin-5dea0b69d286-sfui-invtooltip-wear-amount-4",
+      "owners": 3
+    },
+    {
+      "skinId": "catalog-skin-64d604ccd5cf-sfui-invtooltip-wear-amount-2",
+      "owners": 3
+    },
+    {
+      "skinId": "catalog-skin-64d604ccd5cf-sfui-invtooltip-wear-amount-3",
+      "owners": 3
+    },
+    {
+      "skinId": "catalog-skin-921a5a81c48a-sfui-invtooltip-wear-amount-0",
+      "owners": 3
+    }
+  ]
+}
